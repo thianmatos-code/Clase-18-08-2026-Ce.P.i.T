@@ -4,16 +4,21 @@ Algoritmo aleatoriedad_Funcion
 	// Validar que los rangos sean positivos
 	// Mostrar los numeros aleatorios generados por ambas funciones 'azar' y 'aleatorio'
 	Definir nAzar, nAleatorio,nMinimo, nMaximo Como Entero
+	
 	Escribir 'Ingrese el numero minimo:'
 	Leer nMinimo
-	Si nMinimo>=0 Entonces
 	
-	FinSi
 	Escribir 'Ingrese el numero Maximo'
-	Leer NMaximo
+	Leer nMaximo
+	
+	Si nMinimo>0 y nMaximo>0 Entonces //lucio
+		
+	FinSi
+	
 	nAzar <- Azar(100)
 	nAleatorio <- Aleatorio(11,25)
 	Escribir ''
+	
 	// hola soy martin 
 	// aloooo soy tania
 FinAlgoritmo
