@@ -30,7 +30,7 @@ Algoritmo aleatoriedad_Funcion
 	// hola soy martin
 	// aloooo soy tania
 	// aloha soy Ale
-	
+	//alo alo nos vemooosss!!
 	//holaa soy estrella
 	
 	
