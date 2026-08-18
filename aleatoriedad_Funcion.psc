@@ -15,4 +15,5 @@ Algoritmo aleatoriedad_Funcion
 	nAleatorio <- Aleatorio(11,25)
 	Escribir ''
 	// hola soy martin 
+	// aloooo soy tania
 FinAlgoritmo
