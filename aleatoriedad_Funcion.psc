@@ -3,23 +3,22 @@ Algoritmo aleatoriedad_Funcion
 	// Se debe solicitar al usuario el rango mínimo y el rango máximo
 	// Validar que los rangos sean positivos
 	// Mostrar los numeros aleatorios generados por ambas funciones 'azar' y 'aleatorio'
-	Definir nAzar, nAleatorio,nMinimo, nMaximo Como Entero
+	Definir numeroAzar, numeroAleatorio,numeroMinimo, numeroMaximo Como Entero
 	
 	Escribir 'Ingrese el numero minimo:'
-	Leer nMinimo
-	
+	Leer numeroMinimo
 	Escribir 'Ingrese el numero Maximo'
-	Leer nMaximo
+	Leer numer
 	
-	Si nMinimo>0 y nMaximo>0 Entonces //lucio
-		
+	Si numeroMinimo>0 y numeroMaximo>0 Entonces //lucio
+	
 	FinSi
 	
-	nAzar <- Azar(100)
-	nAleatorio <- Aleatorio(nMinimo,nMaximo)
+	numeroAzar <- Azar(numeroMaximo)
+	numeroAleatorio <- Aleatorio(numeroMinimo,numeroMaximo)
 	Escribir ''
 	
 	// hola soy martin 
 	// aloooo soy tania
-	
+	//aloha soy Ale
 FinAlgoritmo
