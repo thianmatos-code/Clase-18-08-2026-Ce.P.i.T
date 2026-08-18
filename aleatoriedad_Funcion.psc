@@ -8,8 +8,12 @@ Algoritmo aleatoriedad_Funcion
 	Leer numeroMinimo
 	Escribir 'Ingrese el numero Maximo'
 	Leer numeroMaximo
+	
 	Si numeroMinimo>0 Y numeroMaximo>0 Entonces
+		Escribir "ambos numeros son positivos y se puede calcular los numeros aleatorios" 
 	FinSi // lucio
+	
+	
 	numeroAzar <- Azar(numeroMaximo)
 	
 	si numeroMaximo > numeroMinimo Entonces
