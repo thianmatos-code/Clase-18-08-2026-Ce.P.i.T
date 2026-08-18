@@ -31,5 +31,7 @@ Algoritmo aleatoriedad_Funcion
 	// aloooo soy tania
 	// aloha soy Ale
 	
+	//holaa soy estrella
+	
 	
 FinAlgoritmo
