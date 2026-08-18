@@ -8,7 +8,7 @@ Algoritmo aleatoriedad_Funcion
 	Escribir 'Ingrese el numero minimo:'
 	Leer numeroMinimo
 	Escribir 'Ingrese el numero Maximo'
-	Leer numer
+	Leer numeroMaximo
 	
 	Si numeroMinimo>0 y numeroMaximo>0 Entonces //lucio
 	
@@ -16,7 +16,7 @@ Algoritmo aleatoriedad_Funcion
 	
 	numeroAzar <- Azar(numeroMaximo)
 	numeroAleatorio <- Aleatorio(numeroMinimo,numeroMaximo)
-	Escribir ''
+	Escribir 'El numero al azar generado es: ',numeroAzar
 	
 	// hola soy martin 
 	// aloooo soy tania
