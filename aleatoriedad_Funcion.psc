@@ -16,9 +16,10 @@ Algoritmo aleatoriedad_Funcion
 	FinSi
 	
 	nAzar <- Azar(100)
-	nAleatorio <- Aleatorio(11,25)
+	nAleatorio <- Aleatorio(nMinimo,nMaximo)
 	Escribir ''
 	
 	// hola soy martin 
 	// aloooo soy tania
+	
 FinAlgoritmo
