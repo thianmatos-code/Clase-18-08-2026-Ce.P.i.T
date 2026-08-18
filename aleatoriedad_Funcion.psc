@@ -14,4 +14,5 @@ Algoritmo aleatoriedad_Funcion
 	nAzar <- Azar(100)
 	nAleatorio <- Aleatorio(11,25)
 	Escribir ''
+	// hola soy martin 
 FinAlgoritmo
