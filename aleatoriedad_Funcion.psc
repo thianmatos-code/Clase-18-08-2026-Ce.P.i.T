@@ -11,6 +11,8 @@ Algoritmo aleatoriedad_Funcion
 	
 	Si numeroMinimo>0 Y numeroMaximo>0 Entonces
 		Escribir "ambos numeros son positivos y se puede calcular los numeros aleatorios" 
+	SiNo
+		Escribir "uno o ambos de estos valores son invalidos"
 	FinSi // lucio
 	
 	
