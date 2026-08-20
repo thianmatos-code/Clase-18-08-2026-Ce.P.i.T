@@ -1,9 +1,15 @@
+funcion res <- sumarNumero(valor1, valo2)
+	res = valor1 + valor2
+FinFuncion
+
 Algoritmo sin_titulo
 	Definir num1, num2, suma, resultado2026, resultadoFinal Como Entero
 	Escribir 'Ingrese el primer valor:'
 	Leer num1
 	Escribir 'Ingrese el segundo valor:'
 	Leer num2
+	resultado=sumarNumeros(num1, num2)
+	Escribir "el resultado de la suma de ambos es:", resultado
 	suma <- num1+num2
 	Escribir 'La suma de ambos números es: ', suma
 	resultado2026 <- suma+2026
